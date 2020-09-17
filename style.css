@@ -1,0 +1,28 @@
+/**
+ * Theme Name: Child Unite
+ * Template: unite
+ */
+@import url('../unite/style.css');
+
+
+.test_item {
+	width:100%;
+	height:700px;
+	border:1px solid #e5e5e5;
+}	
+
+.test_item_img {
+	width:200px;
+	height:200px;
+	margin: 20px auto;
+	
+} 
+
+.test_item_img img{
+	width:100%;
+	height:100%;
+		
+} 
+
+
+	
